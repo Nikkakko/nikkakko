@@ -1,5 +1,5 @@
 # 🏄‍♂️ NikaKo
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Craftsman (Developer/SwimmingCoach)`**
 
 - 📫 How to reach me **nikolozkopadze@gmail.com**
 
