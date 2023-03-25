@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nika</h1>
 <h3 align="center">On a road to become full stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nikkakko?tab=repositories](https://github.com/Nikkakko?tab=repositories)
-
 - 📫 How to reach me **nikolozkopadze@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
