@@ -1,5 +1,5 @@
-# 🏄‍♂️ NikaKo
-**`Craftsman (Developer/SwimmingCoach)`**
+<h1 align="left">Hi 👋, I'm Nika</h1>
+<h3 align="left">On a road to become full stack developer</h3>
 
 - 📫 How to reach me **nikolozkopadze@gmail.com**
 
