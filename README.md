@@ -1,5 +1,5 @@
-<h1 align="left">🏄‍♂️ NikaKo</h1>
-`On a road to become full stack developer`
+# 🏄‍♂️ NikaKo
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 - 📫 How to reach me **nikolozkopadze@gmail.com**
 
