@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nika</h1>
-<h3 align="center">On a road to become full stack developer</h3>
+<h1 align="left"># 🏄‍♂️ NikaKo</h1>
+<p align="left">On a road to become full stack developer</h3>
 
 - 📫 How to reach me **nikolozkopadze@gmail.com**
 
